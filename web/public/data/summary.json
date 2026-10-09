@@ -1,0 +1,24 @@
+{
+  "total_records": 980,
+  "total_issues": 934,
+  "category_counts": {
+    "DUPLICATE": 798,
+    "MISSING_METADATA": 97,
+    "INVALID_FORMAT": 39
+  },
+  "candidate_pairs": 909,
+  "n_squared": 479710,
+  "comparisons_saved": 478801,
+  "comparisons_saved_pct": 99.81,
+  "auto_flagged": 771,
+  "needs_review": 27,
+  "true_positives": 93,
+  "false_positives": 705,
+  "false_negatives": 7,
+  "seeded_dups_detected": 93,
+  "total_seeded_dups": 100,
+  "precision": 0.1165,
+  "recall": 0.93,
+  "f1": 0.2071,
+  "detection_time_seconds": 0.053
+}
