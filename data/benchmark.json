@@ -1,0 +1,27 @@
+{
+  "measured": {
+    "catalog_records": 980,
+    "detection_time_seconds": 0.084,
+    "report_generation_time_seconds": 1e-06,
+    "total_issues_found": 934,
+    "candidate_pairs_evaluated": 909,
+    "n_squared_pairs": 479710,
+    "comparisons_saved": 478801,
+    "comparisons_saved_pct": 99.81
+  },
+  "manual_baseline_ESTIMATES": {
+    "note": "These are ESTIMATES based on industry norms, not measured values.",
+    "seconds_per_record": 10,
+    "report_minutes": 30,
+    "total_manual_review_seconds": 9800,
+    "total_manual_report_seconds": 1800
+  },
+  "time_savings_ESTIMATES": {
+    "note": "Savings computed from ESTIMATED manual baseline vs. measured tool time.",
+    "review_time_saved_seconds": 9799.9,
+    "report_time_saved_seconds": 1800.0,
+    "total_time_saved_seconds": 11599.9,
+    "total_time_saved_minutes": 193.3,
+    "speedup_factor": 116058.7
+  }
+}

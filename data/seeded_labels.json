@@ -1,0 +1,853 @@
+{
+  "duplicate_pairs": [
+    {
+      "original_id": "C0276",
+      "dup_id": "D0000"
+    },
+    {
+      "original_id": "C0348",
+      "dup_id": "D0001"
+    },
+    {
+      "original_id": "C0063",
+      "dup_id": "D0002"
+    },
+    {
+      "original_id": "C0434",
+      "dup_id": "D0003"
+    },
+    {
+      "original_id": "C0245",
+      "dup_id": "D0004"
+    },
+    {
+      "original_id": "C0436",
+      "dup_id": "D0005"
+    },
+    {
+      "original_id": "C0287",
+      "dup_id": "D0006"
+    },
+    {
+      "original_id": "C0234",
+      "dup_id": "D0007"
+    },
+    {
+      "original_id": "C0220",
+      "dup_id": "D0008"
+    },
+    {
+      "original_id": "C0092",
+      "dup_id": "D0009"
+    },
+    {
+      "original_id": "C0025",
+      "dup_id": "D0010"
+    },
+    {
+      "original_id": "C0470",
+      "dup_id": "D0011"
+    },
+    {
+      "original_id": "C0238",
+      "dup_id": "D0012"
+    },
+    {
+      "original_id": "C0411",
+      "dup_id": "D0013"
+    },
+    {
+      "original_id": "C0200",
+      "dup_id": "D0014"
+    },
+    {
+      "original_id": "C0037",
+      "dup_id": "D0015"
+    },
+    {
+      "original_id": "C0314",
+      "dup_id": "D0016"
+    },
+    {
+      "original_id": "C0026",
+      "dup_id": "D0017"
+    },
+    {
+      "original_id": "C0074",
+      "dup_id": "D0018"
+    },
+    {
+      "original_id": "C0281",
+      "dup_id": "D0019"
+    },
+    {
+      "original_id": "C0151",
+      "dup_id": "D0020"
+    },
+    {
+      "original_id": "C0496",
+      "dup_id": "D0021"
+    },
+    {
+      "original_id": "C0059",
+      "dup_id": "D0022"
+    },
+    {
+      "original_id": "C0382",
+      "dup_id": "D0023"
+    },
+    {
+      "original_id": "C0303",
+      "dup_id": "D0024"
+    },
+    {
+      "original_id": "C0395",
+      "dup_id": "D0025"
+    },
+    {
+      "original_id": "C0112",
+      "dup_id": "D0026"
+    },
+    {
+      "original_id": "C0261",
+      "dup_id": "D0027"
+    },
+    {
+      "original_id": "C0225",
+      "dup_id": "D0028"
+    },
+    {
+      "original_id": "C0221",
+      "dup_id": "D0029"
+    },
+    {
+      "original_id": "C0430",
+      "dup_id": "D0030"
+    },
+    {
+      "original_id": "C0495",
+      "dup_id": "D0031"
+    },
+    {
+      "original_id": "C0152",
+      "dup_id": "D0032"
+    },
+    {
+      "original_id": "C0310",
+      "dup_id": "D0033"
+    },
+    {
+      "original_id": "C0304",
+      "dup_id": "D0034"
+    },
+    {
+      "original_id": "C0370",
+      "dup_id": "D0035"
+    },
+    {
+      "original_id": "C0473",
+      "dup_id": "D0036"
+    },
+    {
+      "original_id": "C0103",
+      "dup_id": "D0037"
+    },
+    {
+      "original_id": "C0105",
+      "dup_id": "D0038"
+    },
+    {
+      "original_id": "C0330",
+      "dup_id": "D0039"
+    },
+    {
+      "original_id": "C0078",
+      "dup_id": "D0040"
+    },
+    {
+      "original_id": "C0086",
+      "dup_id": "D0041"
+    },
+    {
+      "original_id": "C0037",
+      "dup_id": "D0042"
+    },
+    {
+      "original_id": "C0001",
+      "dup_id": "D0043"
+    },
+    {
+      "original_id": "C0225",
+      "dup_id": "D0044"
+    },
+    {
+      "original_id": "C0296",
+      "dup_id": "D0045"
+    },
+    {
+      "original_id": "C0145",
+      "dup_id": "D0046"
+    },
+    {
+      "original_id": "C0115",
+      "dup_id": "D0047"
+    },
+    {
+      "original_id": "C0353",
+      "dup_id": "D0048"
+    },
+    {
+      "original_id": "C0351",
+      "dup_id": "D0049"
+    },
+    {
+      "original_id": "C0227",
+      "dup_id": "D0050"
+    },
+    {
+      "original_id": "C0343",
+      "dup_id": "D0051"
+    },
+    {
+      "original_id": "C0461",
+      "dup_id": "D0052"
+    },
+    {
+      "original_id": "C0393",
+      "dup_id": "D0053"
+    },
+    {
+      "original_id": "C0312",
+      "dup_id": "D0054"
+    },
+    {
+      "original_id": "C0330",
+      "dup_id": "D0055"
+    },
+    {
+      "original_id": "C0466",
+      "dup_id": "D0056"
+    },
+    {
+      "original_id": "C0212",
+      "dup_id": "D0057"
+    },
+    {
+      "original_id": "C0272",
+      "dup_id": "D0058"
+    },
+    {
+      "original_id": "C0323",
+      "dup_id": "D0059"
+    },
+    {
+      "original_id": "C0454",
+      "dup_id": "D0060"
+    },
+    {
+      "original_id": "C0413",
+      "dup_id": "D0061"
+    },
+    {
+      "original_id": "C0035",
+      "dup_id": "D0062"
+    },
+    {
+      "original_id": "C0082",
+      "dup_id": "D0063"
+    },
+    {
+      "original_id": "C0153",
+      "dup_id": "D0064"
+    },
+    {
+      "original_id": "C0374",
+      "dup_id": "D0065"
+    },
+    {
+      "original_id": "C0284",
+      "dup_id": "D0066"
+    },
+    {
+      "original_id": "C0144",
+      "dup_id": "D0067"
+    },
+    {
+      "original_id": "C0062",
+      "dup_id": "D0068"
+    },
+    {
+      "original_id": "C0344",
+      "dup_id": "D0069"
+    },
+    {
+      "original_id": "C0349",
+      "dup_id": "D0070"
+    },
+    {
+      "original_id": "C0471",
+      "dup_id": "D0071"
+    },
+    {
+      "original_id": "C0250",
+      "dup_id": "D0072"
+    },
+    {
+      "original_id": "C0246",
+      "dup_id": "D0073"
+    },
+    {
+      "original_id": "C0040",
+      "dup_id": "D0074"
+    },
+    {
+      "original_id": "C0019",
+      "dup_id": "D0075"
+    },
+    {
+      "original_id": "C0216",
+      "dup_id": "D0076"
+    },
+    {
+      "original_id": "C0161",
+      "dup_id": "D0077"
+    },
+    {
+      "original_id": "C0125",
+      "dup_id": "D0078"
+    },
+    {
+      "original_id": "C0045",
+      "dup_id": "D0079"
+    },
+    {
+      "original_id": "C0480",
+      "dup_id": "D0080"
+    },
+    {
+      "original_id": "C0417",
+      "dup_id": "D0081"
+    },
+    {
+      "original_id": "C0287",
+      "dup_id": "D0082"
+    },
+    {
+      "original_id": "C0475",
+      "dup_id": "D0083"
+    },
+    {
+      "original_id": "C0499",
+      "dup_id": "D0084"
+    },
+    {
+      "original_id": "C0336",
+      "dup_id": "D0085"
+    },
+    {
+      "original_id": "C0134",
+      "dup_id": "D0086"
+    },
+    {
+      "original_id": "C0020",
+      "dup_id": "D0087"
+    },
+    {
+      "original_id": "C0378",
+      "dup_id": "D0088"
+    },
+    {
+      "original_id": "C0235",
+      "dup_id": "D0089"
+    },
+    {
+      "original_id": "C0325",
+      "dup_id": "D0090"
+    },
+    {
+      "original_id": "C0458",
+      "dup_id": "D0091"
+    },
+    {
+      "original_id": "C0090",
+      "dup_id": "D0092"
+    },
+    {
+      "original_id": "C0292",
+      "dup_id": "D0093"
+    },
+    {
+      "original_id": "C0317",
+      "dup_id": "D0094"
+    },
+    {
+      "original_id": "C0245",
+      "dup_id": "D0095"
+    },
+    {
+      "original_id": "C0045",
+      "dup_id": "D0096"
+    },
+    {
+      "original_id": "C0173",
+      "dup_id": "D0097"
+    },
+    {
+      "original_id": "C0166",
+      "dup_id": "D0098"
+    },
+    {
+      "original_id": "C0335",
+      "dup_id": "D0099"
+    }
+  ],
+  "defect_ids": {
+    "C0553": [
+      "invalid_year_format"
+    ],
+    "C0429": [
+      "missing_genres"
+    ],
+    "C0601": [
+      "missing_synopsis"
+    ],
+    "C0760": [
+      "missing_year"
+    ],
+    "C0744": [
+      "missing_year"
+    ],
+    "C0158": [
+      "wrong_year"
+    ],
+    "C0424": [
+      "missing_genres"
+    ],
+    "C0670": [
+      "wrong_year"
+    ],
+    "C0101": [
+      "negative_runtime"
+    ],
+    "C0853": [
+      "missing_genres"
+    ],
+    "C0501": [
+      "missing_synopsis"
+    ],
+    "C0630": [
+      "missing_synopsis"
+    ],
+    "C0417": [
+      "missing_year"
+    ],
+    "C0286": [
+      "negative_runtime"
+    ],
+    "C0033": [
+      "missing_synopsis"
+    ],
+    "C0706": [
+      "negative_runtime"
+    ],
+    "C0379": [
+      "invalid_year_format"
+    ],
+    "C0222": [
+      "negative_runtime"
+    ],
+    "C0454": [
+      "missing_language"
+    ],
+    "C0455": [
+      "missing_genres"
+    ],
+    "C0241": [
+      "missing_year"
+    ],
+    "C0371": [
+      "missing_year"
+    ],
+    "C0871": [
+      "missing_year"
+    ],
+    "C0702": [
+      "missing_year"
+    ],
+    "C0376": [
+      "missing_synopsis"
+    ],
+    "C0557": [
+      "missing_year"
+    ],
+    "C0660": [
+      "negative_runtime"
+    ],
+    "C0367": [
+      "missing_language"
+    ],
+    "C0062": [
+      "missing_title"
+    ],
+    "C0407": [
+      "negative_runtime"
+    ],
+    "C0282": [
+      "missing_year"
+    ],
+    "C0194": [
+      "missing_synopsis"
+    ],
+    "C0125": [
+      "negative_runtime"
+    ],
+    "C0843": [
+      "missing_synopsis"
+    ],
+    "C0465": [
+      "missing_title"
+    ],
+    "C0093": [
+      "invalid_year_format"
+    ],
+    "C0678": [
+      "invalid_year_format"
+    ],
+    "C0217": [
+      "negative_runtime"
+    ],
+    "C0657": [
+      "missing_year"
+    ],
+    "C0654": [
+      "wrong_year"
+    ],
+    "C0611": [
+      "missing_genres"
+    ],
+    "C0021": [
+      "wrong_year"
+    ],
+    "C0051": [
+      "negative_runtime"
+    ],
+    "C0805": [
+      "negative_runtime"
+    ],
+    "C0341": [
+      "missing_year"
+    ],
+    "C0249": [
+      "invalid_year_format"
+    ],
+    "C0128": [
+      "wrong_year"
+    ],
+    "C0836": [
+      "missing_title"
+    ],
+    "C0578": [
+      "invalid_year_format"
+    ],
+    "C0210": [
+      "missing_title"
+    ],
+    "C0070": [
+      "missing_language"
+    ],
+    "C0783": [
+      "invalid_year_format"
+    ],
+    "C0567": [
+      "invalid_year_format"
+    ],
+    "C0212": [
+      "negative_runtime"
+    ],
+    "C0600": [
+      "negative_runtime"
+    ],
+    "C0221": [
+      "missing_title"
+    ],
+    "C0238": [
+      "missing_language"
+    ],
+    "C0336": [
+      "missing_language"
+    ],
+    "C0792": [
+      "missing_synopsis"
+    ],
+    "C0151": [
+      "missing_year"
+    ],
+    "C0807": [
+      "missing_language"
+    ],
+    "C0610": [
+      "missing_title"
+    ],
+    "C0002": [
+      "missing_year"
+    ],
+    "C0283": [
+      "wrong_year"
+    ],
+    "C0148": [
+      "missing_synopsis"
+    ],
+    "C0133": [
+      "missing_genres"
+    ],
+    "C0879": [
+      "negative_runtime"
+    ],
+    "C0256": [
+      "missing_language"
+    ],
+    "C0178": [
+      "negative_runtime"
+    ],
+    "C0112": [
+      "invalid_year_format"
+    ],
+    "C0676": [
+      "negative_runtime"
+    ],
+    "C0026": [
+      "missing_year"
+    ],
+    "C0134": [
+      "missing_title"
+    ],
+    "C0015": [
+      "missing_language"
+    ],
+    "C0366": [
+      "missing_language"
+    ],
+    "C0243": [
+      "missing_title"
+    ],
+    "C0602": [
+      "missing_year"
+    ],
+    "C0331": [
+      "invalid_year_format"
+    ],
+    "C0016": [
+      "missing_genres"
+    ],
+    "C0811": [
+      "missing_synopsis"
+    ],
+    "C0271": [
+      "missing_genres"
+    ],
+    "C0053": [
+      "missing_genres"
+    ],
+    "C0129": [
+      "missing_synopsis"
+    ],
+    "C0759": [
+      "invalid_year_format"
+    ],
+    "C0431": [
+      "wrong_year"
+    ],
+    "C0538": [
+      "missing_year"
+    ],
+    "C0116": [
+      "negative_runtime"
+    ],
+    "C0763": [
+      "missing_synopsis"
+    ],
+    "C0065": [
+      "missing_year"
+    ],
+    "C0487": [
+      "invalid_year_format"
+    ],
+    "C0459": [
+      "missing_genres"
+    ],
+    "C0370": [
+      "invalid_year_format"
+    ],
+    "C0525": [
+      "missing_title"
+    ],
+    "C0607": [
+      "wrong_year"
+    ],
+    "C0111": [
+      "missing_title"
+    ],
+    "C0462": [
+      "missing_title"
+    ],
+    "C0515": [
+      "wrong_year"
+    ],
+    "C0226": [
+      "wrong_year"
+    ],
+    "C0629": [
+      "invalid_year_format"
+    ],
+    "C0044": [
+      "invalid_year_format"
+    ],
+    "C0875": [
+      "negative_runtime"
+    ],
+    "C0674": [
+      "missing_year"
+    ],
+    "C0533": [
+      "missing_title"
+    ],
+    "C0308": [
+      "missing_genres"
+    ],
+    "C0469": [
+      "missing_synopsis"
+    ],
+    "C0658": [
+      "missing_language"
+    ],
+    "C0031": [
+      "missing_language"
+    ],
+    "C0851": [
+      "missing_synopsis"
+    ],
+    "C0490": [
+      "wrong_year"
+    ],
+    "C0411": [
+      "negative_runtime"
+    ],
+    "C0436": [
+      "missing_year"
+    ],
+    "C0856": [
+      "missing_synopsis"
+    ],
+    "C0110": [
+      "missing_title"
+    ],
+    "C0502": [
+      "missing_synopsis"
+    ],
+    "C0729": [
+      "missing_title"
+    ],
+    "C0861": [
+      "missing_genres"
+    ],
+    "C0075": [
+      "missing_year"
+    ],
+    "C0082": [
+      "negative_runtime"
+    ],
+    "C0329": [
+      "missing_synopsis"
+    ],
+    "C0622": [
+      "missing_synopsis"
+    ],
+    "C0820": [
+      "missing_synopsis"
+    ],
+    "C0067": [
+      "invalid_year_format"
+    ],
+    "C0797": [
+      "missing_year"
+    ],
+    "C0281": [
+      "missing_synopsis"
+    ],
+    "C0639": [
+      "missing_title"
+    ],
+    "C0648": [
+      "negative_runtime"
+    ],
+    "C0599": [
+      "missing_language"
+    ],
+    "C0561": [
+      "missing_genres"
+    ],
+    "C0765": [
+      "negative_runtime"
+    ],
+    "C0332": [
+      "missing_year"
+    ],
+    "C0390": [
+      "missing_synopsis"
+    ],
+    "C0839": [
+      "missing_year"
+    ]
+  },
+  "hard_negative_ids": [
+    "C0020",
+    "D0087",
+    "C0025",
+    "D0010",
+    "C0062",
+    "D0068",
+    "C0074",
+    "D0018",
+    "C0121",
+    "C0337",
+    "C0166",
+    "D0098",
+    "C0171",
+    "C0756",
+    "C0200",
+    "D0014",
+    "C0212",
+    "D0057",
+    "C0250",
+    "D0072",
+    "C0280",
+    "C0524",
+    "C0287",
+    "D0082",
+    "C0304",
+    "D0034",
+    "C0319",
+    "C0545",
+    "C0326",
+    "C0509",
+    "C0343",
+    "D0051",
+    "C0351",
+    "D0049",
+    "C0353",
+    "D0048",
+    "C0417",
+    "D0081",
+    "C0430",
+    "D0030",
+    "C0458",
+    "D0091",
+    "C0471",
+    "D0071",
+    "C0496",
+    "D0021"
+  ],
+  "seed": 42,
+  "total_records": 980,
+  "injected_dups": 100
+}

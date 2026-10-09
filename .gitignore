@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+build/
+.env
+.env.local
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+web/node_modules/
+web/.next/
